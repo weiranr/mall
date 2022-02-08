@@ -5,6 +5,7 @@
 执行以下代码迁移数据库：
 python manage.py makemigrations
 python manage.py migrate
+然后执行SQL文件插入数据
 
 1.启动服务器端要使用
 python manage.py runserver 0.0.0.0:8088

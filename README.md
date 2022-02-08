@@ -16,3 +16,6 @@ python manage.py runserver 0.0.0.0:8088
 
 3.服务器端是mall_py，使用pycham打开
    前端是mall_vue，使用vue ui打开控制台网页版，加载项目后运行即可
+
+项目正在开发中...
+目前综合页面已开发完成
